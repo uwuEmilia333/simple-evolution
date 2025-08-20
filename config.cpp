@@ -1,0 +1,11 @@
+#define GRID_SIZE 50
+#define AMOUNT_GENES 16
+#define MUTATION_CHANCE 0.2f
+#define GENE_BASE 1.0f
+#define VARIANCE 1.0f
+#define ORGANISM_STOMACH_CAP 16
+#define SCALE 16
+#define REPRODUCTION_COST 8
+#define MOVE_COST 3
+#define EAT_COST 2
+#define WAIT_COST 1
